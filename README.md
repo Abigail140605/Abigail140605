@@ -15,7 +15,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abigail140605.Abigail140605&" />
 </div>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">I'm Abigail, an Information Systems Engineering student from Costa Rica.<br><br>- 🔭 I'm currently working as a Student Assistant at Universidad Nacional de Costa Rica.<br>- 🎯 I'm looking for my first opportunity as a Full Stack Junior Developer.</p>
