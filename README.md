@@ -18,7 +18,7 @@ I build backend-first web applications: RESTful APIs, relational data models and
 - 🤝 Experienced in team projects under **Scrum**, with code reviews through Pull Requests, technical documentation and API testing
 - 🎯 Currently looking for my **first role as a Junior Full Stack Developer**
 - 🌎 Based in Costa Rica · Spanish (native) · English (B2)
-- 📄 Download my CV: [Spanish](https://github.com/Abigail140605/Abigail140605/raw/main/cv/Abigail__CV_ES.pdf) · [English](https://github.com/Abigail140605/Abigail140605/raw/main/cv/Abigail_CV_EN.pdf)
+- 📄 Download my CV: [Spanish](https://github.com/Abigail140605/Abigail140605/main/cv/Abigail__CV_ES.pdf) · [English](https://github.com/Abigail140605/Abigail140605/main/cv/Abigail_CV_EN.pdf)
 
 ---
 
