@@ -1,70 +1,39 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</div>
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Abigail Ramírez Chavarría, Full Stack Developer" />
+</p>
 
-<div align="center">
-  <a href="https://linkedin.com/in/abigailrch" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/Abigail140605" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/abigailrch"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ramirez.chavarria.abi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-Junior%20Full%20Stack-2ea44f?style=for-the-badge" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abigail140605.Abigail140605&" />
-</div>
+---
 
-<h1 align="center">Hey there 👋</h1>
+### 👩‍💻 About me
 
-<h3 align="left">👩‍💻 About Me</h3>
-<p align="left">I'm Abigail, an Information Systems Engineering student from Costa Rica.<br><br>- 🎯 I'm looking for my first opportunity as a Full Stack Junior Developer.</p>
+I build backend-first web applications: RESTful APIs, relational data models and clean, maintainable architectures.
 
-<h3 align="left">🛠 Languages</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-</div>
+- 🏗️ I work with **Clean Architecture, MVC, MVVM and layered architecture** in .NET, Laravel, Spring Boot and Node.js
+- 🤝 Experienced in team projects under **Scrum**, with code reviews through Pull Requests, technical documentation and API testing
+- 🎯 Currently looking for my **first role as a Junior Full Stack Developer**
+- 🌎 Based in Costa Rica · Spanish (native) · English (B2)
 
-<h3 align="left">⚙️ Frameworks</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
-</div>
+---
 
-<h3 align="left">🗄️ Databases</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" alt="sqlserver logo" />
-</div>
+### 🛠️ Tech stack
 
-<h3 align="left">🧰 Tools</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-</div>
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel,nodejs,python" />
+</p>
 
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,figma" />
+</p>
+
+**Databases & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,githubactions,postman" />
+</p>
