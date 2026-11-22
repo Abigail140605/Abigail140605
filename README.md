@@ -30,22 +30,20 @@ Fourth-year **Information Systems Engineering** student at Universidad Nacional 
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,php,laravel,nodejs,py" />
+  <img src="./assets/stack/backend.svg" alt="C#, .NET, Java, Spring Boot, PHP, Laravel, Node.js, Python" />
 </p>
 
 **Frontend & mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,kotlin,androidstudio" />
+  <img src="./assets/stack/frontend.svg" alt="HTML, CSS, JavaScript, Tailwind CSS, Kotlin, Android Studio" />
 </p>
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  &nbsp;<sub>+ SQL Server · Entity Framework Core</sub>
+  <img src="./assets/stack/databases.svg" alt="PostgreSQL, MySQL, SQL Server, Entity Framework Core" />
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma" />
-  &nbsp;<sub>+ Jira</sub>
+  <img src="./assets/stack/tools.svg" alt="Git, GitHub, Docker, Postman, Figma, Jira" />
 </p>
