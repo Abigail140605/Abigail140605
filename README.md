@@ -12,17 +12,10 @@
 
 ### 👩‍💻 About me
 
-Fourth-year **Information Systems Engineering** student at Universidad Nacional de Costa Rica (UNA), looking for a **professional internship in software development**.
+Fourth-year **Information Systems Engineering** student at UNA (Costa Rica), looking for a **professional internship in software development**.
 
-- Full stack training: REST APIs, relational databases and mobile/web interfaces, applying **Clean Architecture, MVVM and SOLID**
-- Team projects under **Scrum and Kanban**, with Pull Request reviews, technical documentation and testing with PHPUnit and CI
-- Critical use of AI tools in my workflow: Claude Code, GitHub Copilot, Google Antigravity and OpenCode
-- Associate Degree in Computer Applications Programming (UNA) · Bachelor's expected **July 2027**
-- Heredia, Costa Rica · Spanish (native) · English (B2)
-
-🌌 **See my projects, experience and more on my portfolio → [portafolio-abigail.vercel.app](https://portafolio-abigail.vercel.app/)**
-
-📄 **Download my CV → [English](https://github.com/Abigail140605/Abigail140605/raw/main/cv/Abigail_Ramirez_CV_EN.pdf) · [Español](https://github.com/Abigail140605/Abigail140605/raw/main/cv/Abigail_Ramirez_CV_ES.pdf)**
+🌌 Projects and experience → **[portafolio-abigail.vercel.app](https://portafolio-abigail.vercel.app/)**<br>
+📄 CV → **[English](https://github.com/Abigail140605/Abigail140605/raw/main/cv/Abigail_Ramirez_CV_EN.pdf)** · **[Español](https://github.com/Abigail140605/Abigail140605/raw/main/cv/Abigail_Ramirez_CV_ES.pdf)**
 
 ---
 
